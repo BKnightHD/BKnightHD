@@ -6,4 +6,4 @@
 - 💻 Challenge: code everyday
 
 
-<botton>(https://www.linkedin.com/in/brandon-knight-60469422b/)<img src="https://github.com/BKnightHD/hello-world/blob/main/image/link.png" width="30" height ="30"></botton>
+<botton>(https://www.linkedin.com/in/brandon-knight-60469422b/)</botton><img src="https://github.com/BKnightHD/hello-world/blob/main/image/link.png" width="30" height ="30">
