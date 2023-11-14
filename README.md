@@ -6,4 +6,4 @@
 - 💻 Challenge: code everyday
 
 
-<img src="https://github.com/BKnightHD/hello-world/blob/main/image/link.png" width="40" height ="40">
+<img src="https://github.com/BKnightHD/hello-world/blob/main/image/link.png" width="30" height ="30">
