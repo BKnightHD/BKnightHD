@@ -3,4 +3,4 @@
 
 - 📕 I'm currently studying Data Science at UC Boulder for my MS
 - 🧮 Interested in mathematical applications for computational analysis
-- 💻 Challenge: Code Everyday
+- 💻 Challenge: code everyday
