@@ -3,7 +3,7 @@
 
 - 📕 I'm currently studying Data Science at UC Boulder for my [MS](https://github.com/BKnightHD/MS-Data-Science)
 - 🧮 Interested in mathematical applications for computational analysis
-- 💻 Challenge: [code](https://github.com/BKnightHD/Python-CC) everyday
+- 💻 Challenging myself to [code](https://github.com/BKnightHD/Python-CC) everyday
 
 - [Website](https://bknighthd.github.io/) - loading
 
