@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Brandon Knight</h1>
-<h3 align="center">Interested in Math/AI/Data</h3>
+<h3 align="center">Interested in Math/Finance/Computer Science</h3>
 
 - 📕 I'm currently studying Data Science at UC Boulder for my MS; see my progress [here](https://github.com/BKnightHD/MS-Data-Science)
 - 🧮 Interested in Financial Engineering / Qunatitative Finance
