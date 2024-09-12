@@ -3,7 +3,7 @@
 
 - 📚 Study / Coding [streams](https://www.youtube.com/@x80HDx/streams)
 - 📕 I'm currently studying Data Science at UC Boulder for my MS; see my progress [here](https://github.com/BKnightHD/MS-Data-Science)
-- 🧮 Aspiring engineer
+- 🧮 Aspiring financial engineer
 - 💻 Coding [work](https://github.com/BKnightHD/Python-CC)
 - 🛠 Current [portfolio](https://bknighthd.github.io/) in the works
 
