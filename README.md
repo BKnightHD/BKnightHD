@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Brandon Knight</h1>
+<h1 align="center">Hello, I'm Brandon Knight</h1> 
 <h3 align="center">Interested in various Machine Learning applications</h3>
  
 - 📚 Study / Coding [streams](https://www.youtube.com/@BrandonJKnight/streams)
