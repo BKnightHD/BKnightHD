@@ -6,4 +6,3 @@
 - 🧮 Aspiring data scientist / engineer
 - 💻 Coding [work](https://github.com/BKnightHD/Python-CC)
 - [LinkedIn](https://www.linkedin.com/in/brandon-knight-60469422b/)
- 
