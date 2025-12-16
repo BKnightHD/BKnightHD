@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Brandon Knight</h1> 
+<h1 align="center">Hello, I'm Brandon Knight</h1>  
 <h3 align="center">Working in data analytics. Interested in data science and machine learning ops</h3>
 
 - 📚 Study / Coding [streams](https://www.youtube.com/@BrandonJKnight/streams)
