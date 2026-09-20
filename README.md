@@ -6,4 +6,3 @@
 - 🧮 Aspiring data engineer
 - [LinkedIn](https://www.linkedin.com/in/brandon-knight-60469422b/)
  
-  
